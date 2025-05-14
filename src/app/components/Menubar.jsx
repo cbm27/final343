@@ -13,6 +13,8 @@ export default function Menubar
        <li>
        <a href='https://vercel.com/baomei-cuis-projects'target='_blank'>Midterm Part II site</a>
         </li>
+        <Lnk href='/faq'>FAQ</Link>
+        </li>
      </ul>
    </> 
  
