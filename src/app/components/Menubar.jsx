@@ -8,15 +8,14 @@ export default function Menubar
         <Link href='/'>Home</Link>
       </li>
       <li>
-        <a href='https://vercel.com/baomei-cuis-projects/exam1/78WJezFkAeQfh236JJxj7ik4EXe2' target='_blank'>Midterm Part I - Exam1 </a>
+        <a href=''>Midterm Part I - Exam1 </a>
       </li>
        <li>
        <a href='https://vercel.com/baomei-cuis-projects'target='_blank'>Midterm Part II site</a>
         </li>
          <Link href='/faq'>FAQ</Link>
-      </li>
-     </ul>
-   </> 
- 
-)
-}
+       </li>
+        </ul>
+      </>
+    )
+  }
